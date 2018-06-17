@@ -1,1 +1,1 @@
-# AlphaVantage-CSharp-Wrapper
+# AlphaVantage C# Wrapper
