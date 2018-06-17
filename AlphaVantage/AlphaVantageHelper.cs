@@ -69,7 +69,7 @@ namespace Kermor.AlphaVantage
 				}
 				catch (FormatException)
 				{
-					bars = null;
+					//nothing to do, empty or does not contain ohlc data
 				}
 			}
 

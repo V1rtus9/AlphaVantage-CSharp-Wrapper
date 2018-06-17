@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AlphaVantage\AlphaVantage.csproj" />
+    <ProjectReference Include="..\AlphaVantage\Kermor.AlphaVantage.csproj" />
   </ItemGroup>
 
 </Project>
